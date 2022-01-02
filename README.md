@@ -1,4 +1,4 @@
-# mpmdiscordscrape## MPM Discord Scrape
+## MPM Discord Scrape
 
 From the beginning of the MPM Discord Server ~ Mar 1 '19.
 Anything beyond that was related to MPM 2.0 and CubeSense and was not exported.
